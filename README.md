@@ -6,6 +6,7 @@
   </tr>
   <tr>
     <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/103.jpg" width="480" height="270" /> </td>
+    <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/103.jpg" width="480" height="270" /> </td>
   </tr>
   <tr>
     <td> <img src="https://github.com/cmhu/Traffic-target-detection/blob/master/pic/1110.jpg" width="480" height="270" /> </td>

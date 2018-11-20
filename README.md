@@ -31,3 +31,7 @@
     <td> <img src="https://github.com/cmhu/License-plate/blob/master/pic/4-1.jpg" width="480" height="270" /> </td>
   </tr>  
 </table>
+<p>备注：Tod Vision支持json格式标注结果，具体格式可参考COCO数据集格式</p>
+<p>如需数据订阅请联系淘然视界电话：0571-89189380 </p>
+<p>微信公众号：淘然视界</p>
+<p>客服微信号：todview</p>
